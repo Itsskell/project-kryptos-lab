@@ -1,0 +1,3 @@
+# Kryptos Sculpture Orientation
+
+North–south scroll alignment, east-facing copper screen, courtyard positioning...
