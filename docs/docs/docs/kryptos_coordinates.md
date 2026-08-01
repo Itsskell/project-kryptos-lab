@@ -1,0 +1,3 @@
+# Kryptos Coordinates (K3)
+
+Detailed analysis of the K3 coordinate location using NAD83/WGS84 datum...
