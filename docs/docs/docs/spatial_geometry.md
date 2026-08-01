@@ -1,0 +1,3 @@
+# Spatial Geometry
+
+Triangular alignment between marker, sculpture, and coordinates...
