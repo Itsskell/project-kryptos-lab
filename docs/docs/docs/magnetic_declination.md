@@ -1,0 +1,3 @@
+# Magnetic Declination (1990)
+
+Historical declination values, drift rates, and relevance to Kryptos compass rose...
